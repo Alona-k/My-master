@@ -136,5 +136,10 @@
 }
 .foto_like{
     padding-right: 5px;
-
+}
+.topics a{
+    max-width: 12px;
+}
+.owl-dots{
+    display: flex;
 }
